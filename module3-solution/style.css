@@ -1,42 +1,41 @@
-*{
-	margin: 0;
-	padding: 0;
-	
+element.style {
 }
-.navbar{
-
-border: none;
-background-color: black;
-color: #61122F;
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
 }
-body{
-	background-color: #61122F;
-	color: white;
+body {
+    margin: 0;
 }
-.glyphicon{
-	font-size: 30px;
-	color:#61122F; 
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
-
-.center{
-	width: 90%;
-	background-color: grey;
-
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
 }
-.container
-{
-	background-color: grey;
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
-.text-center{
-	font-size: 30px;
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
 }
-
-h2{
-	text-align: center;
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
-#myNavbar ul li a {
-	color: #61122F;
-}
-.navbar-brand{
-font-size: 30px;	
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
